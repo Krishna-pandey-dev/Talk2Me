@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">878172319853-3j83liujuhr8e3vgm5ij4llj3emf4f7m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://talk2me-5ebd5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">878172319853</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDqPg8XNmrvMUXlOTqHAXDUNA2KUHVGj0</string>
+    <string name="google_app_id" translatable="false">1:878172319853:android:c059e2d7acafbb2d6d8f64</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDqPg8XNmrvMUXlOTqHAXDUNA2KUHVGj0</string>
+    <string name="google_storage_bucket" translatable="false">talk2me-5ebd5.appspot.com</string>
+    <string name="project_id" translatable="false">talk2me-5ebd5</string>
+</resources>
