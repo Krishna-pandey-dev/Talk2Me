@@ -36,6 +36,11 @@ Add all the dependencies in the gradle file.
     
     implementation 'com.squareup.picasso:picasso:2.71828'
     
+ 2. extract all the files
+ 3. Build the gradle and copy all the files from "src" and"gradle".
+    
+ 4. Compile and run.
+    
 ### Features of TALK 2 ME:
 #### 1. User Registration:
   The User needs to type his/her phone number in order to finish the first verification process. This is one of the simplest form of verification for users.
