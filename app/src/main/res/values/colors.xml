@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#6592EE</color>
+    <color name="barcolor">#E0EEE6</color>
+    <color name="titlecolor">#3277E0</color>
+    <color name="gradstart">#419DE6</color>
+    <color name="gradend">#030A61</color>
+    <color name="btnstart">#81F1C4</color>
+    <color name="btnend">#4A60F5</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00FFFFFF</color>
+
+
+</resources>
