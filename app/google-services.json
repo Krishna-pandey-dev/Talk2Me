@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878172319853",
+    "firebase_url": "https://talk2me-5ebd5.firebaseio.com",
+    "project_id": "talk2me-5ebd5",
+    "storage_bucket": "talk2me-5ebd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878172319853:android:c059e2d7acafbb2d6d8f64",
+        "android_client_info": {
+          "package_name": "com.example.talk2me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878172319853-4fd5j4nnt52uov095qslosorqbjo5auu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talk2me",
+            "certificate_hash": "9bb05b1ef5dd09d94da3744085b097946cee82ef"
+          }
+        },
+        {
+          "client_id": "878172319853-3j83liujuhr8e3vgm5ij4llj3emf4f7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqPg8XNmrvMUXlOTqHAXDUNA2KUHVGj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878172319853-3j83liujuhr8e3vgm5ij4llj3emf4f7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
