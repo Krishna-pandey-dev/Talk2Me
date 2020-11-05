@@ -77,3 +77,18 @@ Instant messaging apps cannot be completed without push notifications that enabl
 Even though the majority of functionalities were implemented, the application is still a proof-of-concept and there is still room for modifications and optimization.
 If the limitations are resolved, then the applications will be more effective. In future we will try to develop our project and add certain features like scheduler, geolocation and so on.
 With this growing world of digitalization and further development of our conceptual project we will be soon able to bring a remarkable change in the field of messaging and emerge as one of the valuable project possible.
+
+## ScreenShots
+### Login Page
+
+<img src = screenshot/login.jpg width = "320" height = "480">
+
+### SignUp Page
+
+<img src = screenshot/createaccount.jpg width = "320" height = "480">
+### Chat Fragment Page
+
+<img src = screenshot/chatfragment.jpg width = "320" height = "480">
+### Profile Update Page
+
+<img src = screenshot/profileupdate.jpg width = "320" height = "480">
