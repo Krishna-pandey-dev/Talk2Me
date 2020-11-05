@@ -86,9 +86,9 @@ With this growing world of digitalization and further development of our concept
 ### SignUp Page
 
 <img src = screenshot/createaccount.jpg width = "320" height = "480">
-### Chat Fragment Page
+#### Chat Fragment Page
 
 <img src = screenshot/chatfragment.jpg width = "320" height = "480">
-### Profile Update Page
+#### Profile Update Page
 
 <img src = screenshot/profileupdate.jpg width = "320" height = "480">
